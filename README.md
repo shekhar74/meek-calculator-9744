@@ -1,4 +1,4 @@
-#Data is hosted on local Json Server
+# Data is hosted on local Json Server
 
 This is an Individual project to clone the website www.gearbest.com within a week.
 
